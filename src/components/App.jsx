@@ -5,7 +5,8 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 import axios from "axios";
 
-const backendServerURL = "http://localhost:3001";
+// const backendServerURL = "http://localhost:3001";
+const backendServerURL = "https://keeperappbackend-308s.onrender.com";
 
 
 function App() {
