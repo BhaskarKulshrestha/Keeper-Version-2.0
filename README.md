@@ -1,7 +1,5 @@
 <h1><u>KEEPER: The Note App</u></h1>
 
-# Keeper-Version-2.0
-
 Keeper-Version-2.0 is an updated version of the Keeper application, a simple note-taking web app built with React.js. With Keeper-Version-2.0, users can create, edit, and delete notes effortlessly.
 
 ### 🔗[CHECK OUT THE WORKING APPLICATION](https://keeperappfrontendforfullstack.onrender.com) 
